@@ -33,7 +33,7 @@
 
 
 - 组件项目(component projects)
-  - [AsyncX 一款控制任意的多线程并行、串行、阻塞、依赖、回调的并行框架🛫](https://github.com/lhccong/AsyncX)
+  - 
 
 
 
