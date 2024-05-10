@@ -2,7 +2,7 @@
 
 - 🌹 I am a Java developer, and I use GitHub to document the projects I have implemented 🐵.
 - 🏡 作品： <a href="https://github.com/lhccong/Coj-backend" target="_blank">答题智匠✅</a> | 
-- :pencil: 博客：[test💬](https://blog.csdn.net/ChenBairong)
+- :pencil: 博客：[CSDN💬](https://blog.csdn.net/ChenBairong)
 
 
 ### ✨ 我的技能(my skills)   
