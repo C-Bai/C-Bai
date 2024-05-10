@@ -1,7 +1,7 @@
 ## 我是柏ζ
 
 - 🌹 I am a Java developer, and I use GitHub to document the projects I have implemented 🐵.
-- 🏡 作品： <a href="https://github.com/lhccong/Coj-backend" target="_blank">test✅</a> | 
+- 🏡 作品： <a href="https://github.com/lhccong/Coj-backend" target="_blank">答题智匠✅</a> | 
 - :pencil: 博客：[test💬](https://blog.csdn.net/LHCong_)
 
 
@@ -26,7 +26,7 @@
 ### 开发的项目(developed projects)
 
 - 业务项目(business projects)
-  - [test✨](https://github.com/lhccong/short-link-dog-backend)
+  - [答题智匠✨](https://github.com/lhccong/short-link-dog-backend)
 
 
 
