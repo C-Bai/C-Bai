@@ -26,7 +26,7 @@
 ### 开发的项目(developed projects)
 
 - 业务项目(business projects)
-  - [答题智匠✨](https://github.com/lhccong/short-link-dog-backend)
+  - [答题智匠✨](https://github.com/C-Bai/QuizCraft-AI-backend)
 
 
 
